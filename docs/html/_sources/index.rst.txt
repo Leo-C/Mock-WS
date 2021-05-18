@@ -1,0 +1,33 @@
+.. Mock Web Server documentation master file, created by
+   sphinx-quickstart on Tue May 18 18:07:08 2021.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to Mock Web Server's documentation!
+===========================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+.. py:currentmodule:: mock_ws
+
+.. autoclass:: HttpMessage
+   :members:
+   :undoc-members:
+
+.. autoclass:: WebServer
+   :members:
+   :undoc-members:
+
+.. autoclass:: WebClient
+   :members:
+   :undoc-members:
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+
